@@ -25,13 +25,13 @@ __Data Aggregation:__
 
 To keep it simple, metrics are the aggregated sum of the total unit ordered of each item type. The aggregation will be grouped into days of the week, with Monday as the starting date. Finally, each day will also have aggregated sum of the total order placed.   
 
-![image1]()
+![image1](https://github.com/mbo0000/RandomStuffs/blob/main/SpreadSheet%20Things/Weekly%20Metric/images/image1.PNG)
 
 __User Input:__
 
 In cell `J7` of the `Data` tab is a cell where a stakeholder can input the whole numeric number of how many weeks ago they would like to obtain. Due to the limit of available data, the max is 3 weeks. This should be the only place where the user is allowed to interact with the worksheet in a __final production__ worksheet.
 
-![image2]()
+![image2](https://github.com/mbo0000/RandomStuffs/blob/main/SpreadSheet%20Things/Weekly%20Metric/images/image2.PNG)
 
 __Functions:__
 
@@ -43,4 +43,4 @@ __Output:__
 
 As shown below, the chart output is a stacked column chart with stacks of the item types. In addition, I also threw in the Total Order Placed metric. This will give the stakeholder an additional insight into sale activities where units sold alone might not be adequate
 
-![image3]()
+![image3](https://github.com/mbo0000/RandomStuffs/blob/main/SpreadSheet%20Things/Weekly%20Metric/images/image3.PNG)
