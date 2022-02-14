@@ -8,7 +8,7 @@ Say, a stakeholder wants to look at simple sale metrics for an entire week of 3 
 ### __Breakdown:__
 __Data:__
 
-[Weekly Metrics](https://docs.google.com/spreadsheets/d/1JBvwVCxa1fj_U2gtwcAsULVV9XeZANCeYM-Z-YGJdnA/edit?usp=sharing) is a sample dataset I created randomly for demonstration purposes. It contains sale records of an office supply store. __DISCLAIMER:__ this is not reflective of my current or past works at my employment. This is meant for personal education and providing learning tips or tricks. 
+[Weekly Metrics](https://docs.google.com/spreadsheets/d/1JBvwVCxa1fj_U2gtwcAsULVV9XeZANCeYM-Z-YGJdnA/edit?usp=sharing) is a sample dataset I created randomly for demonstration purposes. It contains sale records of an office supply store. __DISCLAIMER:__ this is not affiliated of my current or past works at my employment. This is meant for personal education and providing learning tips or tricks. 
 
 - Table Schema:
 
